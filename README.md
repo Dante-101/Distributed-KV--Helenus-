@@ -1,4 +1,4 @@
-Distributed-KV--Helenus-
+Distributed KV Database (Helenus)
 ========================
 
 A distributed key-value database which provides replication of stored data, robustness against failure of up to two replicas and information consistency levels of One, Quorum, and All.
